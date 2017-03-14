@@ -1,0 +1,5 @@
+npm install body-parser --save --save-exact
+npm install express --save --save-exact
+npm install express-validator --save --save-exact
+npm install consign --save --save-exact
+npm install ejs --save --save-exact
